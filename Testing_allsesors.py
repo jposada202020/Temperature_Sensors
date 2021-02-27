@@ -51,3 +51,5 @@ while True:
 
     time.sleep(5.0)
     gc.collect()
+
+    print("Mem_Free: {} Bytes".format(gc.mem_free()))
