@@ -13,3 +13,7 @@ Temperature Sensors:
 * DS18x20
 
 They are readed once, around every 8 seconds
+
+## Test Jig showed
+
+![image](https://user-images.githubusercontent.com/34255413/109373984-22cded00-7880-11eb-9226-ef904c3ac0a2.png)
